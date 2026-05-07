@@ -66,7 +66,7 @@ Project organized into:
 
 ### Wholesale Order Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](src/main/java/edu/wctc/wholesale/screenshots/dashboard.png)
 
 ---
 
